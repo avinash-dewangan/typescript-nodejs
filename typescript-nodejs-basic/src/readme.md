@@ -1,4 +1,4 @@
-#how to setup typescript
+#how to setup typescript :
 
 step1 install nodejs with https://nodejs.org/en/
 
